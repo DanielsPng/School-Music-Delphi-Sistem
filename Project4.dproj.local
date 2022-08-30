@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/02 15:04:28.363.pas,C:\Users\supor\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\supor\Desktop\NewProject\UniLoginUsuario.pas</Transaction>
+    <Transaction>2022/06/02 15:04:28.363.dfm,C:\Users\supor\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\supor\Desktop\NewProject\UniLoginUsuario.dfm</Transaction>
+    <Transaction>2022/06/02 15:33:44.258.dproj,C:\Users\supor\Documents\RAD Studio\Projects\Project4.dproj=C:\Users\supor\Desktop\NewProject\Project4.dproj</Transaction>
+    <Transaction>2022/06/02 15:55:31.942.pas,C:\Users\supor\Desktop\NewProject\Unit1.pas=C:\Users\supor\Desktop\NewProject\UniCadastroProfessor.pas</Transaction>
+    <Transaction>2022/06/02 15:55:31.942.dfm,C:\Users\supor\Desktop\NewProject\Unit1.dfm=C:\Users\supor\Desktop\NewProject\UniCadastroProfessor.dfm</Transaction>
+    <Transaction>2022/06/02 16:31:47.213.pas,C:\Users\supor\Desktop\NewProject\Unit2.pas=C:\Users\supor\Desktop\NewProject\UniCadastroAluno.pas</Transaction>
+    <Transaction>2022/06/02 16:31:47.213.dfm,C:\Users\supor\Desktop\NewProject\Unit2.dfm=C:\Users\supor\Desktop\NewProject\UniCadastroAluno.dfm</Transaction>
+    <Transaction>2022/06/03 14:14:03.829.pas,C:\Users\supor\Desktop\NewProject\Unit2.pas=C:\Users\supor\Desktop\NewProject\UniLoginUsuario.pas</Transaction>
+    <Transaction>2022/06/03 14:14:03.829.dfm,C:\Users\supor\Desktop\NewProject\Unit2.dfm=C:\Users\supor\Desktop\NewProject\UniLoginUsuario.dfm</Transaction>
+    <Transaction>2022/06/08 15:33:06.921.pas,C:\Users\supor\Desktop\NewProject\Unit1.pas=C:\Users\supor\Desktop\NewProject\UniCadastroAulas.pas</Transaction>
+    <Transaction>2022/06/08 15:33:06.921.dfm,C:\Users\supor\Desktop\NewProject\Unit1.dfm=C:\Users\supor\Desktop\NewProject\UniCadastroAulas.dfm</Transaction>
+    <Transaction>2022/06/09 16:51:02.360.pas,C:\Users\supor\Desktop\NewProject\Unit1.pas=C:\Users\supor\Desktop\NewProject\UniBusca.pas</Transaction>
+    <Transaction>2022/06/09 16:51:02.360.dfm,C:\Users\supor\Desktop\NewProject\Unit1.dfm=C:\Users\supor\Desktop\NewProject\UniBusca.dfm</Transaction>
+    <Transaction>2022/06/14 15:42:57.453.pas,C:\Users\supor\Desktop\NewProject\Unit1.pas=C:\Users\supor\Desktop\NewProject\UniBuscaAluno.pas</Transaction>
+    <Transaction>2022/06/14 15:42:57.453.dfm,C:\Users\supor\Desktop\NewProject\Unit1.dfm=C:\Users\supor\Desktop\NewProject\UniBuscaAluno.dfm</Transaction>
+    <Transaction>2022/06/20 16:01:23.520.pas,C:\Users\supor\Desktop\NewProject\Unit1.pas=C:\Users\supor\Desktop\NewProject\UniDashboard.pas</Transaction>
+    <Transaction>2022/06/20 16:01:23.520.dfm,C:\Users\supor\Desktop\NewProject\Unit1.dfm=C:\Users\supor\Desktop\NewProject\UniDashboard.dfm</Transaction>
+    <Transaction>2022/06/22 15:59:49.885.pas,C:\Users\supor\Desktop\NewProject\Unit1.pas=C:\Users\supor\Desktop\NewProject\FReAulas.pas</Transaction>
+    <Transaction>2022/06/22 15:59:49.885.dfm,C:\Users\supor\Desktop\NewProject\Unit1.dfm=C:\Users\supor\Desktop\NewProject\FReAulas.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
